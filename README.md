@@ -1,0 +1,1 @@
+This was the closed book, midterm exam for Prof. John Gallaugher's SwiftUI Course available on Youtube.[Swift Mid-Term 2 - Fall 2024.pdf](https://github.com/user-attachments/files/19615381/Swift.Mid-Term.2.-.Fall.2024.pdf)
